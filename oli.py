@@ -1,5 +1,5 @@
 print "Hello"
-def Pupcia:
-    print "Hello Pupcia"
+def Dog:
+    print "Hello Dog"
 
-Pupcia()
+Dog()
